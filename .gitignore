@@ -1,0 +1,22 @@
+# Python environments and generated files
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Jupyter and common tooling output
+**/.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# Locally supplied copyrighted or private course documents
+LangSmith-Framework-Crash-Course/islr.pdf
+LangGraph-Framework-Basic-to-Advanced/12-rag-chroma/data.pdf

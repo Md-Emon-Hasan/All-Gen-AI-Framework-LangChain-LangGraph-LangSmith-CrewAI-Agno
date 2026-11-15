@@ -1,0 +1,8 @@
+# Agno v3 SDK plus the optional AgentOS server dependencies.
+agno[os]>=3.0,<4.0
+google-genai>=1.0
+groq>=0.30
+ddgs>=9.0
+yfinance>=0.2
+python-dotenv>=1.0
+streamlit>=1.40
